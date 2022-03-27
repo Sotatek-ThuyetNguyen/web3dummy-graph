@@ -4,5 +4,4 @@ type Ahihi @entity {
   block: BigInt!
   amount: BigInt!
   timestamp: BigInt!
-  type: String!
 }
